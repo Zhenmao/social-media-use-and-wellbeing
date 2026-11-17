@@ -1,0 +1,12 @@
+﻿Emotion,Measure,Low,Moderate,High,Adjusted: Low vs. moderate,Adjusted: High vs. moderate
+Positive,Enjoyment,63,75,76,-2.4 pp*,+0.3 pp
+Positive,Learning,48,57,59,-0.9 pp,+.07 pp
+Positive,Smiling/Laughing,67,75,79,-2.9 pp*,+1.0 pp
+Positive,Treated with respect,83,92,90,-1.6 pp*,-1.2 pp*
+Positive,Well-rested,66,70,73,-1.4 pp*,+1.4 pp*
+Negative,Stress,37,35,37,-0.6 pp,+2.0 pp*
+Negative,Anger,21,16,20,+1.0 pp*,+2.2 pp*
+Negative,Worry,44,36,36,-0.9 pp,+1.7 pp*
+Negative,Loneliness,27,16,17,+0.8 pp,+2.2 pp*
+Negative,Sadness,31,19,20,+1.0 pp,+2.2 pp*
+Negative,Physical pain,44,30,28,+0.4 pp,+1.0 pp
